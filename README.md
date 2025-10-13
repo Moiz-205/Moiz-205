@@ -66,5 +66,6 @@
 -->
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-205&theme=transparent" alt="GitHub Streak" />
+  <img align="left" src="https://streak-stats.demolab.com?user=moiz-205&theme=transparent
+  " alt="GitHub Streak" />
 </p>
