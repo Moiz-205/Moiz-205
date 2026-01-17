@@ -13,6 +13,7 @@
 </p>
 -->
 
+<!--
 -  I’m currently working on [Russian Roullete](https://github.com/Moiz-205/Russian-Roulette)
 
 -  I’m currently working on [SQLDock](https://github.com/Moiz-205/SQLDock)
@@ -20,6 +21,7 @@
 -  I’m currently working on [CatComm](https://github.com/Moiz-205/CatComm)
 
 -  All of my projects are available at [https://github.com/Moiz-205](https://github.com/Moiz-205)
+-->
 
 <!--
 - I regularly write articles on [https://blogs.com](https://blogs.com)
@@ -29,7 +31,9 @@
 - Ask me about **Data Science**
 -->
 
+<!--
 -  I’m currently learning **Operating Systems**
+-->
 
 <!--
 - Resume: [https://heresmyresume.com](https://heresmyresume.com)
@@ -183,11 +187,11 @@
 -->
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-205&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-205&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=moiz-205&theme=transparent" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-205&theme=transparent" alt="GitHub Streak" />
 </p>
 
 
