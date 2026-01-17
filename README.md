@@ -185,15 +185,13 @@
   </a>
 
 -->
-
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-205&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-205&theme=transparent" alt="GitHub Streak" />
 </p>
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-205&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
 <!--
 <p>
