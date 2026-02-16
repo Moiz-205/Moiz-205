@@ -99,11 +99,11 @@
         <img align="left" src="https://streak-stats.demolab.com?user=moiz-205&theme=transparent&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 
-<p>
-    <div style="text-align: right;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-205&layout=compact" alt="Top Languages" />
-    </div>
->
+<p align="right">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=moiz-205&layout=compact" />
+</p>
+
+
 
 <!--
   Languages
