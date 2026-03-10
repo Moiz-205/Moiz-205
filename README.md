@@ -36,13 +36,13 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/moizuddin-rajput" target="_blank">
+  <a href="https://linkedin.com/in/moizuddin-rajput">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://kaggle.com/moiz205" target="_blank">
+  <a href="https://kaggle.com/moiz205">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="40"/>
   </a>
-  <a href="https://huggingface.co/Moiz-205" target="_blank">
+  <a href="https://huggingface.co/Moiz-205">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="40"/>
   </a>
 </p>
@@ -70,7 +70,8 @@
 ---
 
 ## Kaggle Stats
-![Kaggle Stats](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?username=moiz205)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-moiz205-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/moiz205)
 
 
 ---
