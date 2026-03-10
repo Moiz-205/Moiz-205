@@ -72,12 +72,9 @@
 ## Kaggle Stats
 
 <p align="center">
-
-| 📓 Notebooks | 🏆 Competitions | 🎓 Courses |
-|:---:|:---:|:---:|
-| **21** created | **4** joined | **3** completed |
-| [View All](https://www.kaggle.com/moiz205/code) | [View All](https://www.kaggle.com/moiz205/competitions) | [View All](https://www.kaggle.com/moiz205/courses) |
-
+  <a href="https://www.kaggle.com/moiz205/code"><img src="https://img.shields.io/badge/Notebooks-21-20BEFF?style=for-the-badge&logo=kaggle"/></a>
+  <a href="https://www.kaggle.com/moiz205/competitions"><img src="https://img.shields.io/badge/Competitions-4-20BEFF?style=for-the-badge&logo=kaggle"/></a>
+  <a href="https://www.kaggle.com/moiz205/courses"><img src="https://img.shields.io/badge/Courses-3-20BEFF?style=for-the-badge&logo=kaggle"/></a>
 </p>
 
 ---
