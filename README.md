@@ -71,8 +71,14 @@
 
 ## Kaggle Stats
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-moiz205-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/moiz205)
+<p align="center">
 
+| 📓 Notebooks | 🏆 Competitions | 🎓 Courses |
+|:---:|:---:|:---:|
+| **21** created | **4** joined | **3** completed |
+| [View All](https://www.kaggle.com/moiz205/code) | [View All](https://www.kaggle.com/moiz205/competitions) | [View All](https://www.kaggle.com/moiz205/courses) |
+
+</p>
 
 ---
 
