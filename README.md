@@ -26,7 +26,7 @@
 
 ### All projects: [github.com/Moiz-205](https://github.com/Moiz-205)
 
----
+<!-----
 
 ## Connect with Me
 
@@ -56,7 +56,7 @@
     <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
     <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
     <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></a>
-</div>
+</div>-->
 
 ---
 
