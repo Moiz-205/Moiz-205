@@ -16,16 +16,18 @@
 
 ## Projects
 
-| Projects | Repository |
-|----------|------------|
-|Machine Learning| [Machine-Learning](https://github.com/Moiz-205/Machine-Learning)|
-|Deep Learning| [Deep-Learning](https://github.com/Moiz-205/Deep-Learning)|
-|Generative AI| [GenAI](https://github.com/Moiz-205/GenAI)|
-|DL Application|[Face Recognition Application](https://github.com/Moiz-205/Facial-Recognition-App)|
-|DL Tool|[Digit Recognizer](https://github.com/Moiz-205/Digits-Recognizer)|
-|Game Project| [Russian Roulette](https://github.com/Moiz-205/Russian-Roulette)|
-|Application| [Lantern](https://github.com/Moiz-205/Lantern)|
-|CLI Tool|[Ascii Art Generator](https://github.com/Moiz-205/Ascii-Art-Generator)|
+| Projects                        | Repository                                                                         |
+| ------------------------------- | ---------------------------------------------------------------------------------- |
+| Machine Learning                | [Machine-Learning](https://github.com/Moiz-205/Machine-Learning)                   |
+| Deep Learning                   | [Deep-Learning](https://github.com/Moiz-205/Deep-Learning)                         |
+| Sales Analysis SQL Project      | [Retail-Sales-Analysis](https://github.com/Moiz-205/Retail-Sales-Analysis)         |
+| E-Commerce Analysis SQL Project | [Ecommerce-Analysis](https://github.com/Moiz-205/Ecommerce-Analysis)               |
+| Generative AI                   | [GenAI](https://github.com/Moiz-205/GenAI)                                         |
+| DL Application                  | [Face Recognition Application](https://github.com/Moiz-205/Facial-Recognition-App) |
+| DL Tool                         | [Digit Recognizer](https://github.com/Moiz-205/Digits-Recognizer)                  |
+| Game Project                    | [Russian Roulette](https://github.com/Moiz-205/Russian-Roulette)                   |
+| Application                     | [Lantern](https://github.com/Moiz-205/Lantern)                                     |
+| CLI Tool                        | [Ascii Art Generator](https://github.com/Moiz-205/Ascii-Art-Generator)             |
 
 ### All projects: [github.com/Moiz-205](https://github.com/Moiz-205)
 
